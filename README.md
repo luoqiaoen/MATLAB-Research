@@ -15,5 +15,5 @@ This contains sample code to process intensity correlation data for image recons
 
 The sample and reconstruction can be like below:
 <p align="center">
-  <img width="500" height="200" src="https://github.com/luoqiaoen/MATLAB-Research/blob/master/speckle_corr_sample/reconstruction.png">
+  <img width="500" height="200" src="https://github.com/luoqiaoen/MATLAB-Research/blob/master/speckle_corr_sample/recon.png">
 </p>
