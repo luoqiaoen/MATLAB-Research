@@ -1,5 +1,5 @@
 # MATLAB-Research: 
-### Snippets of MATLAB codes written for my research projects.
+Snippets of MATLAB codes written for my research projects.
 
 
 ## COMSOL_simulation 
