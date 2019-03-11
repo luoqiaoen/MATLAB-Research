@@ -3,7 +3,7 @@ Snippets of MATLAB codes written for my research projects.
 
 
 ## COMSOL_simulation 
-This contains disorder_slab.m file that interact with COMSOL to generate random structures as pictured below, the extreme left is the entire structure, the rest is the zoom-in view of the central area of the structure, the red line is where measurement should be taken.
+This contains disorder_slab.m file that interact with COMSOL to generate complex slab structures at random as pictured below, the extreme left is the entire structure, the rest is the zoom-in view of the central area of the structure, the red line is where measurement should be taken.
 
 <p align="center">
   <img width="721" height="434" src="https://github.com/luoqiaoen/MATLAB-Research/blob/master/COMSOL_simulation/simulated_structure.png">
